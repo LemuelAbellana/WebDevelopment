@@ -1,0 +1,16 @@
+.background-color1{
+    background-color: aquamarine;
+    margin: 0;
+    padding: 0;
+}
+/* Background Color allows you to change the background */
+
+.Background-image1{
+    background-image: url(Sen.png);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right center;
+    background-attachment: fixed;
+}
