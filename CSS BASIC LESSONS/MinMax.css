@@ -1,0 +1,7 @@
+.MinMax{
+    background-color: aqua;
+    min-width: 100px;
+    min-height: 300px;
+    max-width: 1200px;
+    max-height: 300px;
+}
