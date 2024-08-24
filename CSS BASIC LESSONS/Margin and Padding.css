@@ -1,0 +1,14 @@
+.img1{
+    width: 600px;
+}
+
+.padding{
+    background-color: hotpink;
+    border: 2px solid yellow;
+    padding: 100px 20px 0 20px; 
+    /* top right bottom left */
+}
+
+.margin{
+    margin: 300px 0px 0px 700px;
+}
