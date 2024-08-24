@@ -1,0 +1,8 @@
+.borders{
+    background-color: aquamarine;
+    /* border: 20px groove hotpink; */
+    border-top: 20px solid greenyellow;
+    border-left: 20px solid burlywood;
+    border-bottom: 20px solid salmon;
+    border-right: 20px solid antiquewhite;
+}
