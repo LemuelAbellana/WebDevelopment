@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.textDecor{
+    text-decoration: line-through;
+    /* text-decoration: wavy;
+    text-decoration: none;
+    text-decoration: underline; */
+}
