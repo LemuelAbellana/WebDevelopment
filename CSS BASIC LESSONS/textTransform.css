@@ -1,0 +1,9 @@
+.Up{
+    text-transform: uppercase;
+}
+.Lower{
+    text-transform: lowercase;
+}
+.Capt{
+    text-transform: capitalize;
+}
